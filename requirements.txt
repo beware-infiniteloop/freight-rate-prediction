@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+xgboost-cu12      # CUDA-12 build (cluster driver is CUDA 12.7); use plain `xgboost` on other machines
+matplotlib
+python-docx       # make_report.py
+nbconvert         # run the walkthrough notebook
+ipykernel
